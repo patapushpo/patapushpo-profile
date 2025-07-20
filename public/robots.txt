@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://patapushpo.com/sitemap.xml
